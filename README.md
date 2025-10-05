@@ -1,5 +1,5 @@
 # Organoid Data Analysis Framework
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#)
 [![Reproducible](https://img.shields.io/badge/Reproducible-End--to--End-brightgreen)](#)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17268384.svg)](https://doi.org/10.5281/zenodo.17268384)
 
